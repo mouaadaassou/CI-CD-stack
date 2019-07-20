@@ -1,5 +1,5 @@
 ## CI-CD Stack:
-This project contains a Docker Deployment along with Kubernetes Deployment of Jenkins CI-CD Server,
-and Sonarqube, PostgreSQL.
+This project contains a Docker Deployment along with Kubernetes Deployment to run Jenkins CI-CD Server,
+and Sonarqube, PostgreSQL on my machine.
 
-this stack is used by ne in my daily basis work, to test, an measure my code quality. you can custome this configuration to meet you needs.
+this stack is used by me in my daily basis work, to test, an measure my code quality. you can custome this configuration to meet you needs.
